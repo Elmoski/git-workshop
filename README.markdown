@@ -32,8 +32,8 @@ Setup
 First thing to do is to setup your identity. This identifies you to
 other people who download the project. you can open a terminal in VSCode with Ctrl + Shift + ` 
 
-    $ git config --global user.name "Your Name"
-    $ git config --global user.email your.email@example.com
+    $ git config --global user.name "Elmoski"
+    $ git config --global user.email ihsaantje2003@gmail.com
 
 As a helpful step, you may want to set Git to use your favourite editor
 
